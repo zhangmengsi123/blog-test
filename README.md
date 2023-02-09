@@ -6,10 +6,10 @@
     
 这是多行代码   
 
-~~~javascript
+```javascript
 git commit -v
 git commit -v
-~~~
+```
 
 1. 我的老师
 2. 很棒
